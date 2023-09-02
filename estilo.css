@@ -6,7 +6,7 @@
     margin: 0;
     padding: 0;
     background-color: #fff;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Poppins', sans-serif;
   }
   
   main {
@@ -30,7 +30,7 @@
   }
 
   .topo {
-    background-color: #00cad1;
+    background-color: #5f77ff;
     width: 100%;
   }
   .topo .container {
@@ -71,7 +71,7 @@
   }
   
   .topo-links a:hover {
-    color: #004b4c;
+    color: #0c3738;
   }
   
   @media (max-width: 425px) {
@@ -82,7 +82,7 @@
 
 
   footer {
-    background-color: #0d6e71;
+    background-color: #5f77ff;
     color: #fff;
     padding: 20px;
   }
@@ -103,7 +103,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
-    height: 500px;
+    height: 600px;
   }
   
   .box-visao-geral-titulo{
@@ -164,7 +164,7 @@
   }
   
   .link-horarios {
-    background-color: #00cad1;
+    background-color: #5f77ff;
     color: #fff;
     font-weight: 600;
     text-transform: uppercase;
