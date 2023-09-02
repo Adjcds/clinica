@@ -1,6 +1,6 @@
 # CM Life - Projeto do Curso da Devmedia
 
-![Imagem](imagem/)
+<img src= assets/print.png alt= imagem>
 
 Bem-vindo(a) ao projeto da CM Life - Clínica Médica! Este é um projeto desenvolvido como parte do curso da Devmedia e representa uma clínica médica com diversas especialidades. Aqui estão as instruções para executar o projeto localmente e para acessar o site implantado.
 
