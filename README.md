@@ -2,7 +2,7 @@
 
 <img src= assets/print.png alt= imagem>
 
-Bem-vindo(a) ao projeto da CM Life - Clínica Médica! Este é um projeto desenvolvido como parte do curso da Devmedia e representa uma clínica médica com diversas especialidades. Aqui estão as instruções para executar o projeto localmente e para acessar o site implantado.
+Bem-vindo(a) ao projeto da CM Life - Clínica Médica! Este é um projeto desenvolvido como parte do curso da Devmedia e representa uma clínica médica com diversas especialidades. Aqui estão as instruções para executar o projeto localmente e para acessar o site implantado. 
 
 ## Pré-requisitos
 
@@ -19,7 +19,7 @@ Siga essas etapas para configurar e executar o projeto em sua máquina local.
    Abra o terminal e execute o seguinte comando para clonar o repositório para sua máquina:
 
    ```
-   git clone https://github.com/seu-usuario/cm-life
+   git clone https://github.com/Adjcds/clinica
    ```
 
 2. **Execução Local**:
@@ -45,4 +45,4 @@ Siga essas etapas para configurar e executar o projeto em sua máquina local.
 
 Após a implantação bem-sucedida, a Vercel fornecerá um link onde seu site da CM Life estará acessível online.
 
-- Visualize o site: Abra o seu navegador e acesse o link fornecido pela Vercel para visualizar o site em execução. Agora você pode explorar a clínica médica CM Life e suas especialidades online.
+- Visualize o site: Abra o seu navegador e acesse o link fornecido pela Vercel para visualizar o site em execução. Agora você pode explorar a clínica médica CM Life e suas especialidades online. https://clinica-sepia.vercel.app/
